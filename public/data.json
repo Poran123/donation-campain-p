@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/jLXdKxC/image1.jpg",
+    "category": "health",
+    "title": "Food Donation Kit",
+    "bgColor": "#D9E5FF",
+    "category_color": "#AEC8FF",
+    "text_color": "#0052FF",
+    "price": 49.99,
+    "description": "Help those in need by providing essential food items with our Food Donation Kit. This kit includes non-perishable food items suitable for donation to local food banks and shelters. Make a positive impact on your community by contributing to those who require assistance with their basic nutritional needs."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/wYDbT0N/image4.jpg",
+    "category": "education",
+    "title": "Online Coding Course for Charity",
+    "bgColor": "#FFE3E4",
+    "category_color": "#FFC3C5",
+    "text_color": "#FF444A",
+    "price": 89.99,
+    "description": "Support a good cause while expanding your coding skills with our Online Coding Course for Charity. Every enrollment contributes to charity initiatives aimed at providing education to underserved communities. Learn to code while making a difference in the lives of others."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/GpkXCKr/image7.jpg",
+    "category": "clothing",
+    "title": "Men's Hoodie for a Cause",
+    "bgColor": "#EBF6E2",
+    "category_color": "#D4ECC1",
+    "text_color": "#79C23F",
+    "price": 34.99,
+    "description": "Stay warm and make a charitable statement with our Men's Hoodie for a Cause. For every purchase, a portion of the proceeds goes toward supporting local hunger relief programs. Embrace style with a purpose and help combat food insecurity in your community."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/tMP0hck/image10.jpg",
+    "category": "food",
+    "title": "Organic Fruit Basket Donation",
+    "bgColor": "#FEEAE3",
+    "category_color": "#FDD2C4",
+    "text_color": "#F87147",
+    "price": 29.99,
+    "description": "Spread joy and nourishment with our Organic Fruit Basket Donation. This generous fruit basket is not just a gift; it's a donation to those in need. Each purchase helps supply fresh and organic fruits to individuals and families facing food insecurity. Give the gift of health and hope."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/rdLVQct/image8.jpg",
+    "category": "clothing",
+    "title": "Women's Dress for Charity Events",
+    "bgColor": "#EBF6E2",
+    "category_color": "#D4ECC1",
+    "text_color": "#79C23F",
+    "price": 59.99,
+    "description": "Dress up with purpose for your next charity event in our Women's Dress for Charity Events. A portion of the proceeds from each dress sold goes toward supporting charitable organizations. Look stunning and make a meaningful contribution to causes you care about."
+  },
+
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/F7nPC1Z/image11.jpg",
+    "category": "food",
+    "title": "Gourmet Chocolate Box with a Heart",
+    "bgColor": "#FEEAE3",
+    "category_color": "#FDD2C4",
+    "text_color": "#F87147",
+    "price": 19.99,
+    "description": "Indulge in the sweetness of giving with our Gourmet Chocolate Box with a Heart. For every box purchased, a portion of the proceeds is donated to hunger relief programs. Treat yourself or share the joy of gourmet chocolates while making a difference in the lives of others."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/Mks00d1/image5.jpg",
+    "category": "education",
+    "title": "Language Learning App with a Purpose",
+    "bgColor": "#FFE3E4",
+    "category_color": "#FFC3C5",
+    "text_color": "#FF444A",
+    "price": 9.99,
+    "description": "Learn new languages while supporting a noble cause with our Language Learning App with a Purpose. Your subscription directly contributes to language education initiatives for disadvantaged individuals and communities. Expand your horizons and make a positive impact."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/KDdz2nw/image2.jpg",
+    "category": "health",
+    "title": "Yoga Mat for Community Wellness",
+    "bgColor": "#D9E5FF",
+    "category_color": "#AEC8FF",
+    "text_color": "#0052FF",
+    "price": 19.99,
+    "description": "Practice yoga on a mat that cares. Our Yoga Mat for Community Wellness is designed to promote both physical and mental well-being. With every purchase, a portion of the proceeds goes to support community wellness programs, including yoga classes for underserved populations."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/DgRFx3N/image13.jpg",
+    "category": "food",
+    "title": "Healthy Snack Pack Donation",
+    "bgColor": "#FEEAE3",
+    "category_color": "#FDD2C4",
+    "text_color": "#F87147",
+    "price": 9.99,
+    "description": "Nourish both yourself and those in need with our Healthy Snack Pack Donation. Each purchase of this snack pack contributes to providing nutritious snacks to individuals and families facing food insecurity. Snack with purpose and help combat hunger in your community."
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/VvzPWbG/image6.jpg",
+    "category": "education",
+    "title": "Math Workbook for Educational Equality",
+    "bgColor": "#FFE3E4",
+    "category_color": "#FFC3C5",
+    "text_color": "#FF444A",
+    "price": 12.99,
+    "description": "Improve your math skills and promote educational equality with our Math Workbook for Educational Equality. A percentage of sales goes to fund educational initiatives that provide quality math resources to underserved students. Enhance your math proficiency while contributing to a brighter future for all."
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/8BRfZq4/image9.jpg",
+    "category": "clothing",
+    "title": "Men's T-Shirt for a Cause",
+    "bgColor": "#EBF6E2",
+    "category_color": "#D4ECC1",
+    "text_color": "#79C23F",
+    "price": 14.99,
+    "description": "Elevate your style and make a difference with our Men's T-Shirt for a Cause. For every t-shirt purchased, a portion of the proceeds goes toward supporting charitable organizations focused on hunger relief and community well-being. Wear your commitment to a better world proudly."
+  },
+  
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/7WtSNXK/image3.jpg",
+    "category": "health",
+    "title": "Running Shoes for Community Fitness",
+    "bgColor": "#D9E5FF",
+    "category_color": "#AEC8FF",
+    "text_color": "#0052FF",
+    "price": 79.99,
+    "description": " Lace up your Running Shoes for Community Fitness and hit the pavement with purpose. These comfortable and supportive shoes are not only for your fitness journey but also for the betterment of your community. A portion of your purchase supports local fitness programs for underserved populations."
+  }
+]
